@@ -1,4 +1,5 @@
-This project was developed by my fellow colleagues and me for the Advanced Topics on Communication Netowrks of ETH Zurich, year 2021/2022. It was a fun project, where we got to implement and optimize many netowrk engineering techniques for efficient routing, load balancing, QoS management, failure detection and fast convergence.
+This project was developed by my fellow colleagues and me for the Advanced Topics on Communication Netowrks of ETH Zurich, year 2021/2022. It was a fun project, where we got to implement and optimize many netowrk engineering techniques for efficient routing, load balancing, QoS management, failure detection and fast convergence. The topology is based on the Claranet network.
+We have also won the course 1st prize for the most performant implementation (the goal was meeting a set of SLAs).
 Have a look at the code and poster for more info! 
 
 ## Context
