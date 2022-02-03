@@ -3,7 +3,7 @@ We have also won the course 1st prize for the most performant implementation (th
 Have a look at the code and poster for more info! 
 
 ## Context
-The project was developed targeting the [BMv2 Simple Switch Target](https://github.com/nsg-ethz/p4-learning/wiki/BMv2-Simple-Switch). The switch software is coded using [P4_16] (https://p4.org/p4-spec/docs/PSA.html).
+The project was developed targeting the [BMv2 Simple Switch Target](https://github.com/nsg-ethz/p4-learning/wiki/BMv2-Simple-Switch). The data plane is coded using [P4_16] (https://p4.org/p4-spec/docs/PSA.html).
 The control plane is coded in Python using [Switch_Thrift_Api](https://nsg-ethz.github.io/p4-utils/p4utils.utils.sswitch_thrift_API.html#p4utils.utils.sswitch_thrift_API.SimpleSwitchThriftAPI).
 The network was created using [mininet](http://mininet.org/)
 
