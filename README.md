@@ -10,11 +10,11 @@ The network was created using [mininet](http://mininet.org/)
 
 ## Group info
 
-| Group name | 13_REXFORD |  |  |
-| --- | --- | --- | --- |
-| Member 1 | Francesco Intoci  | fintoci | fintoci@ethz.ch |
-| Member 2 | Westermann Floris | wfloris | wfloris@ethz.ch |
-| Member 3 | Bungeroth Matthias | mbungeroth | mbungeroth@ethz.ch |
+| Group name | 13_REXFORD |
+| --- | --- |
+| Member 1 | Francesco Intoci  
+| Member 2 | Westermann Floris 
+| Member 3 | Bungeroth Matthias
 
 ## Overview
 
